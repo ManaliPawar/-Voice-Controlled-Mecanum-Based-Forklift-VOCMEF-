@@ -2,11 +2,11 @@
 
 Skills : Mechatronics , IoT , Robotics , Electronics , Machine Learning , Communication 
 
-This project is made by me ( Ayush Agarwal ) , Shivansh Dubey , Vishal Gosain and Manali Pawar . The CAD files, ML model and its weights , Proteus , Arduino files have been uploaded in this repository itself . This project was made under a time span of 14 days . This project also secured 3rd rank in Robotics Conclave , a competition held under Technex , tech fest of IIT BHU Varanasi 
+This project is made by me ( Manali Pawar ) , Shivansh Dubey , Vishal Gosain and Ayush Agarwal . The CAD files, ML model and its weights , Proteus , Arduino files have been uploaded in this repository itself . This project was made under a time span of 14 days . This project also secured 3rd rank in Robotics Conclave , a competition held under Technex , tech fest of IIT BHU Varanasi 
 
 ## Introduction and the problem statment taken by us :
 
-After an analysis of videos of the traditional forklifts availaible online , it was observed by me that the present forklift model used in the factories has certain drawbacks which I could solve . Some of those are :
+After an analysis of videos of the traditional forklifts availaible online , it was observed that the present forklift model used in the factories has certain drawbacks which I could solve . Some of those are :
 
 * Forward toppling of the goods being carried 
 * Sideways toppling of the goods being carried 
