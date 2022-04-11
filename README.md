@@ -1,37 +1,38 @@
-Voice-Controlled-Mecanum-Based-Forklift-(VOCMEF)-
+# Voice-Controlled-Mecanum-Based-Forklift-(VOCMEF)-
+
 Skills : Mechatronics , IoT , Robotics , Electronics , Machine Learning , Communication
 
-This project is made by me ( Ayush Agarwal ) , Shivansh Dubey , Vishal Gosain and Manali Pawar . The CAD files, ML model and its weights , Proteus , Arduino files have been uploaded in this repository itself . This project was made under a time span of 14 days . This project also secured 3rd rank in Robotics Conclave , a competition held under Technex , tech fest of IIT BHU Varanasi
+This project is made by me (Manali Pawar ) , Shivansh Dubey , Vishal Gosain and Ayush Agarwal . The CAD files, ML model and its weights , Proteus , Arduino files have been uploaded in this repository itself . This project was made under a time span of 14 days . This project also secured 3rd rank in Robotics Conclave , a competition held under Technex , tech fest of IIT BHU Varanasi
 
-Introduction and the problem statment taken by us :
-After an analysis of videos of the traditional forklifts availaible online , it was observed by me that the present forklift model used in the factories has certain drawbacks which I could solve . Some of those are :
+## Introduction and the problem statment taken by us :
+After an analysis of videos of the traditional forklifts availaible online , it was observed by that the present forklift model used in the factories has certain drawbacks which I could solve . Some of those are :
 
 Forward toppling of the goods being carried
 Sideways toppling of the goods being carried
 Overturning / Toppling of the forklift itself
 Injuries to the human operating the machine
 Wasteage of large amount of industrial goods
-Reference videos (watch for fun ) :
+Reference videos :
 
 https://www.youtube.com/watch?v=GEMyqZ3ShFs
 
 https://www.youtube.com/watch?v=zwOa-dB-t3g
 
-The VOCMEF (VOice Controlled Mecanum based Forklift )
+## The VOCMEF (VOice Controlled Mecanum based Forklift )
 image
 
 The above image shows the structure of the VOCMEF as made by me on the CAD software .
 
 The VOCMEF has rollers , 2 DoF Robotic arm like structure , Normal forklift lifting part with additional belt rollers , scissor lifter , double wishbone suspension , Mecanum wheels , central plate like structure , microprocessor etc .
 
-Operation of the VOCMEF
+## Operation of the VOCMEF
 The VOCMEF is optimised to lift both boxed goods as well as collection of smaller goods ( which I saw was also one of the things forklifts were used for in the videos ) .
 
 For the boxed goods , the vocmef approaches from the roller side . First the robotic arms squeeze and hold the box from the side , then the roller rolls , thus making the box lie down on the central plate . This gives the box low center of gravity thus giving advantages which I will explain in the next part . Then , while unloading , the central plate moves up to the height required and the robotic arms push the box , thus being optimised to put the goods at a height too .
 
 For a collection of objects (say a bunch of metal sheets ) , we can use the side of the structure that is similar to the original forklift . However , unlike the former forklift , there are belt rollers on it , so that first the object is put on it , then it is rolled to the center plate , which keeps the goods more stable , hence gives advantages which I will explain in the next session .
 
-Advantages over the traditional forklift
+## Advantages over the traditional forklift
 Prevents the sideways toppling : Since there is a robot arm on the side , the extended rod like structure prevents the sideways toppling of the goods .
 Prevents the forward toppling : Since the goods are now closer to the center of the forklift , thus providing more stability compared to the traditional forklift where the goods used to fall off the edge due to disbalance .
 Boxes optimisation : VOCMEF is optimised to differently lift boxes and stacks . While lifting boxes it can provide even lower center of gravity due to keeping it sideways (lying position ) , thus even more topple free conditions .
